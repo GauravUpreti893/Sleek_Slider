@@ -18,6 +18,7 @@ function toggle()
         checkbox.style.backgroundColor = '#9a9a9a';
         text.style.color = '#9a9a9a';
     }
+    console.log(count);
     count++;
 }
 console.log('Sleek Checkbox');
